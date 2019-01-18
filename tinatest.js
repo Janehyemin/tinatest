@@ -30,6 +30,6 @@ apiRouter.post('/tinatest', function(req, res) {
   res.status(200).send(responseBody);
 });
 
-app.listen(1024, function() {
-  console.log('Example skill server listening on port 3000!');
-});
+app.listen(3000, function() {
+    console.log('서버가 연결연결^^7');
+  });
