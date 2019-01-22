@@ -1,0 +1,25 @@
+{
+  "name": "tinatest",
+  "version": "1.0.0",
+  "description": "## commit test",
+  "main": "tinatest.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janehyemin/tinatest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janehyemin/tinatest/issues"
+  },
+  "homepage": "https://github.com/Janehyemin/tinatest#readme"
+}
